@@ -1,0 +1,6 @@
+{
+  "name": "HarvestHub – Smart Agriculture Marketplace",
+  "description": "A smart digital agriculture marketplace connecting farmers, customers, and sellers for transparent trading, direct farm-to-table sales, and AI-powered agronomy advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
